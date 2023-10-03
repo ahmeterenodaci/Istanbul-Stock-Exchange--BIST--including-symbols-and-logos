@@ -10,19 +10,27 @@ List of companies listed on the Istanbul Stock Exchange (BIST), including their 
 	</tr>
 </table>
 
+---
+
+If file size is important to you, you can use the version without logos and access the URL of the logos with the format below.
+
+`https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/{symbol}.png`
+
+---
+
 ## Formats Available
 
 ### Including Logo
 
--  [CSV](nasdaq.csv) (0KB)
--  [JSON](nasdaq.json) (0KB)
--  [JSON (minimized)](nasdaq.min.json) (0KB)
+-  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/nasdaq.csv) (85KB)
+-  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/nasdaq.json) (119KB)
+-  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/nasdaq.min.json) (102KB)
 
 ### Without Logo
 
--  [CSV](without_logo.csv) (26KB)
--  [JSON](without_logo.json) (50KB)
--  [JSON (minimized)](without_logo.min.json) (36KB)
+-  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/without_logo.csv) (26KB)
+-  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/without_logo.json) (50KB)
+-  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/without_logo.min.json) (36KB)
 
 ---
 
