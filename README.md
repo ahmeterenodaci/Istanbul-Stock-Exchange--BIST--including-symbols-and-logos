@@ -1,4 +1,4 @@
-# Istanbul Stock Exchange (BIST) including Symbols and Logos
+# Istanbul Stock Exchange (BIST) including symbols and logos
 
 List of companies listed on the Istanbul Stock Exchange (BIST), including their logos and symbols. The source of the data is from the [KAP](https://www.kap.org.tr/tr/bist-sirketler) website. The data columns are "symbol", "name", "logoUrl".
 
@@ -44,4 +44,4 @@ If file size is important to you, you can use the version without logos and acce
 
 ## See Also
 
--  [List of Companies on the NASDAQ Stock Exchange (including symbols and logos)](https://github.com/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos)
+-  [Nasdaq Stock Exchange including Symbols and Logos](https://github.com/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos)
