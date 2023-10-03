@@ -22,9 +22,9 @@ If file size is important to you, you can use the version without logos and acce
 
 ### Including Logo
 
--  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/nasdaq.csv) (85KB)
--  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/nasdaq.json) (119KB)
--  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/nasdaq.min.json) (102KB)
+-  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/bist.csv) (85KB)
+-  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/bist.json) (119KB)
+-  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/bist.min.json) (102KB)
 
 ### Without Logo
 
