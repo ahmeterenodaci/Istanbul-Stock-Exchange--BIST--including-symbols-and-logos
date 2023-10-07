@@ -2583,5 +2583,105 @@
      "name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
      "symbol": "ZRGYO",
      "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZRGYO.png"
-   }
+   },
+   {
+    "symbol": "APX30",
+    "name": "Ak Portföy Bıst 30 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/APX30.png"
+  },
+  {
+    "symbol": "APBDL",
+    "name": "Ak Portföy Bıst Banka Dışı Likit 10 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/APBDL.png"
+  },
+  {
+    "symbol": "APLIB",
+    "name": "Ak Portföy Bıst Likit Banka Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/APLIB.png"
+  },
+  {
+    "symbol": "OPX30",
+    "name": "Osmanlı Portföy Bıst 30 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/OPX30.png"
+  },
+  {
+    "symbol": "GLDTR",
+    "name": "Qnb Finans Portföy Altın Katılım Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/GLDTR.png"
+  },
+  {
+    "symbol": "USDTR",
+    "name": "Qnb Finans Portföy Amerikan Doları Yabancı Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/USDTR.png"
+  },
+  {
+    "symbol": "DJIST",
+    "name": "Qnb Finans Portföy Dow Jones İstanbul 20 Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/DJIST.png"
+  },
+  {
+    "symbol": "GMSTR",
+    "name": "Qnb Finans Portföy Gümüş Katılım Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/GMSTR.png"
+  },
+  {
+    "symbol": "ZGOLD",
+    "name": "Ziraat Portföy Altın Katılım Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZGOLD.png"
+  },
+  {
+    "symbol": "ZPX30",
+    "name": "Ziraat Portföy Bıst 30 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZPX30.png"
+  },
+  {
+    "symbol": "Z30EA",
+    "name": "Ziraat Portföy Bıst 30 Eşit Ağırlıklı Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/Z30EA.png"
+  },
+  {
+    "symbol": "ZELOT",
+    "name": "Ziraat Portföy Bıst 50-30 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZELOT.png"
+  },
+  {
+    "symbol": "ZPBDL",
+    "name": "Ziraat Portföy Bıst Banka Dışı Likit 10 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZPBDL.png"
+  },
+  {
+    "symbol": "ZPLIB",
+    "name": "Ziraat Portföy Bıst Likit Banka Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZPLIB.png"
+  },
+  {
+    "symbol": "ZSR25",
+    "name": "Ziraat Portföy Bıst Sürdürülebilirlik 25 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZSR25.png"
+  },
+  {
+    "symbol": "Z30KP",
+    "name": "Ziraat Portföy Katılım 30 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/Z30KP.png"
+  },
+  {
+    "symbol": "Z30KE",
+    "name": "Ziraat Portföy Katılım 30 Eşit Ağırlıklı Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/Z30KE.png"
+  },
+  {
+    "symbol": "ZRE20",
+    "name": "Ziraat Portföy Risk Eşit Banka Dışı 20 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZRE20.png"
+  },
+  {
+    "symbol": "ZTM15",
+    "name": "Ziraat Portföy Yıldız Pazar Likit Temettü Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZTM15.png"
+  },
+  {
+    "symbol": "ZPT10",
+    "name": "Ziraat Portföy Yıldız Pazar Teknoloji Ve İletişim 10 Endeksi Hisse Senedi Yoğun Borsa Yatırım Fonu",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos/logos/ZPT10.png"
+  }
  ]
